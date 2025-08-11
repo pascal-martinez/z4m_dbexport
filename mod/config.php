@@ -18,8 +18,8 @@
  * --------------------------------------------------------------------
  * Parameters of the ZnetDK 4 Mobile DB Export module
  *
- * File version: 1.0
- * Last update: 04/12/2025
+ * File version: 1.1
+ * Last update: 08/08/2025
  */
 
 
@@ -61,9 +61,9 @@ define('MOD_Z4M_DBEXPORT_COLOR_SCHEME', NULL);
  * Module version number
  * @return string Version
  */
-define('MOD_Z4M_DBEXPORT_VERSION_NUMBER','1.0');
+define('MOD_Z4M_DBEXPORT_VERSION_NUMBER','1.1');
 /**
  * Module version date
  * @return string Date in W3C format
  */
-define('MOD_Z4M_DBEXPORT_VERSION_DATE','2025-04-12');
+define('MOD_Z4M_DBEXPORT_VERSION_DATE','2025-08-08');

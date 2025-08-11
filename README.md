@@ -45,7 +45,7 @@ to set SQL tables to include in or to exclude from the export file. For example:
 define('MOD_Z4M_DBEXPORT_SELECTED_TABLES', ['my_table_one', 'my_table_two']);
 
 // All the tables will be exported except the two tables below:
-define('MOD_Z4M_DBEXPORT_SELECTED_TABLES', ['zdk_users', 'zdk_profiles']);
+define('MOD_Z4M_DBEXPORT_EXCLUDED_TABLES', ['zdk_users', 'zdk_profiles']);
 ```
 5. Go to the **Data export** menu and click the **Download...** button to get App's SQL table data in a Excel spreadsheet file. 
 
